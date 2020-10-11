@@ -1,7 +1,7 @@
 <h3 align="center">Hello there, I'm David 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/david-chung-0324/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/david-chung-0324/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
   <!-- <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code> -->
 
