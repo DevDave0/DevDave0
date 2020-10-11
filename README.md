@@ -1,14 +1,13 @@
 <h3 align="center">Hello there, I'm David 👋</h3>
 <h5 align="center">
-    [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-
+  <code>
+    <a href="https://www.linkedin.com/in/david-chung-0324/" title="LinkedIn Profile"><img width="22" src="https://github.com/DevDave0/DevDave0/blob/main/images/linkedin.svg"> LinkedIn</a></code>
   <!-- <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code> -->
 
 
   <!--<code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>-->
 </h5>
-
 <br>
 <p align="center">
   Hi, I'm David Chung, Computer Engineer & Software Developer from Virginia!
