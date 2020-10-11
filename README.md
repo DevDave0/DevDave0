@@ -3,10 +3,8 @@
   <code>
     <a href="https://www.linkedin.com/in/david-chung-0324/" title="LinkedIn Profile"><img width="22" src="https://github.com/DevDave0/DevDave0/blob/main/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://medium.com/@dbchung3" title="Medium Profile"><img width="22" src="https://github.com/DevDave0/DevDave0/blob/main/images/medium.svg"> Medium</a></code>
-  <code><a href="https://www.instagram.com/davidc24/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/davidc24/" title="Instagram Profile"><img width="22" src="https://github.com/DevDave0/DevDave0/blob/main/images/instagram.svg"> Instagram</a></code>
 
-
-  <!--<code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>-->
 </h5>
 <br>
 <p align="center">
@@ -26,30 +24,20 @@
   📫 How to reach me: <a href="mailto: dbchung24@gmail.com">dbchung24@gmail.com</a>
 </p>
 
-<!-- <hr>
+<hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="SAAS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></code>
+
+  <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></code>
+  <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
+  <code><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></code>
 </p>
 
-<hr> -->
+<hr>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a> -->
 
