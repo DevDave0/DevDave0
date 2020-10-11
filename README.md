@@ -14,19 +14,15 @@
   🎓 I graduated from Flatiron School's full stack software engineering coding bootcamp.
   <br>
   💻 I love writing code and creating useful web applications.
-  <!-- <br>
-  🔬 I’m currently working on Django -->
   <br>
   📚 I’m currently learning how to build applications with Node.js.
-  <!-- <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
   📫 How to reach me: <a href="mailto: dbchung24@gmail.com">dbchung24@gmail.com</a>
 </p>
 
 <hr>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">Languages & Frameworks</h2>
 
 <p align="center">
 
@@ -49,6 +45,4 @@
 </p>
 
 <hr>
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a> -->
 
