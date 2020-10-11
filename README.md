@@ -8,7 +8,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm David Chung, Computer Engineer & Software Developer from Virginia!
+  Hi, I'm David Chung, a Full Stack Software Engineer from Northern Virginia!
   <br>
   <br>
   🎓 I graduated from Flatiron School's full stack software engineering coding bootcamp.
