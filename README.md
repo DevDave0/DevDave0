@@ -15,7 +15,7 @@
   <br>
   💻 I love writing code and creating useful web applications.
   <br>
-  📚 I’m currently learning how to build applications with Node.js.
+  📚 I’m currently learning how to build applications with Angular and TypeScript.
   <br>
   📫 How to reach me: <a href="mailto: dbchung24@gmail.com">dbchung24@gmail.com</a>
 </p>
