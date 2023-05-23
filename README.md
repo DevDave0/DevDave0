@@ -8,14 +8,14 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm David Chung, a Full Stack Software Engineer from Northern Virginia!
+  Hi, I'm David Chung, a Front End Software Engineer living in Los Angeles!
   <br>
   <br>
-  🎓 I graduated from Flatiron School's full stack software engineering coding bootcamp.
+  🎓 I graduated from Flatiron School's full stack software engineering coding bootcamp back in 2020.
   <br>
   💻 I love writing code and creating useful web applications.
   <br>
-  📚 I’m currently learning how to build applications with Angular and TypeScript.
+  📚 I’m currently learning how to build applications with Vite and Tailwind.
   <br>
   📫 How to reach me: <a href="mailto: dbchung24@gmail.com">dbchung24@gmail.com</a>
 </p>
