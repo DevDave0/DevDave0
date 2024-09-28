@@ -1,21 +1,12 @@
 <h3 align="center">Hello there, I'm David 👋</h3>
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/david-chung-0324/" title="LinkedIn Profile"><img width="22" src="https://github.com/DevDave0/DevDave0/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://medium.com/@dbchung3" title="Medium Profile"><img width="22" src="https://github.com/DevDave0/DevDave0/blob/main/images/medium.svg"> Medium</a></code>
-  <code><a href="https://www.instagram.com/davidc24/" title="Instagram Profile"><img width="22" src="https://github.com/DevDave0/DevDave0/blob/main/images/instagram.svg"> Instagram</a></code>
-
-</h5>
 <br>
 <p align="center">
-  Hi, I'm David Chung, a Front End Software Engineer living in Los Angeles!
+  Hi, I'm David Chung, a Front End Software Engineer living in Los Angeles! Currently a Front End Software Engineer Lead at Deloitte.
   <br>
   <br>
   🎓 I graduated from Flatiron School's full stack software engineering coding bootcamp back in 2020.
   <br>
   💻 I love writing code and creating useful web applications.
-  <br>
-  📚 I’m currently learning how to build applications with Vite and Tailwind.
   <br>
   📫 How to reach me: <a href="mailto: dbchung24@gmail.com">dbchung24@gmail.com</a>
 </p>
