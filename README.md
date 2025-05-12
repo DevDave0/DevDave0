@@ -1,7 +1,7 @@
 <h3 align="center">Hello there, I'm David 👋</h3>
 <br>
 <p align="center">
-  Hi, I'm David Chung, a Front End Software Engineer living in Los Angeles! Currently a Software Engineer Lead at Deloitte.
+  Hi, I'm David Chung, a Front End Software Engineer living in Los Angeles! Currently a Software Engineer at Deloitte.
   <br>
   <br>
   🎓 I graduated from Flatiron School's full stack software engineering coding bootcamp back in 2020.
@@ -31,7 +31,6 @@
   <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
   <code><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></code>
   <code><img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/></code>
-  <code><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></code>
 
 </p>
 
